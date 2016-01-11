@@ -26,8 +26,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # we need bootstrap plox
 gem "twitter-bootstrap-rails"
 
-# For easy object generation
-gem 'factory_girl'
+#factory girl FOR RAILS
+gem 'factory_girl_rails'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
@@ -44,6 +44,12 @@ group :development, :test do
 
   #for testing!
   gem 'rspec-rails', '~> 3.0'
+
+end
+
+# Gemfile
+group :test do
+  gem 'shoulda-matchers'
 end
 
 group :development do
