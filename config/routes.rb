@@ -1,4 +1,15 @@
 Rails.application.routes.draw do
+
+  root 'users#login' #change to login
+  get 'users/login', as: :login
+
+  get 'users/register', as: :register
+  post 'users/create_session', as: :create_session
+
+  resources :users, only: [:create]
+
+  get 'sentences' => 'sentences#house_latest', as: :house_latest
+  resources :sentences, only: [:create]
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

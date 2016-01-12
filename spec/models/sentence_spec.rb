@@ -1,5 +1,10 @@
 require 'rails_helper'
 
 RSpec.describe Sentence, type: :model do
-  pending "add some examples to (or delete) #{__FILE__}"
+  it {is_expected.to validate_presence_of(:user)}
+  it {is_expected.to validate_presence_of(:house)}
+  it {is_expected.to validate_presence_of(:sentence_text)}
+
+
+
 end

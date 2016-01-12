@@ -18,6 +18,10 @@ class User < ActiveRecord::Base
 
   #room number takes the form xy-abc[A-F]
   def self.authenticate(matric, room_number)
+    #upcase everything!
+    matric.try(:upcase!)
+    room_number.try(:upcase!)
+
     User.exists?(matric: matric, room_number: room_number)
   end
 
@@ -27,9 +31,8 @@ class User < ActiveRecord::Base
       #people can only be from floor 3 to 21st
       errors.add(:room_number, "is not within the correct range (3 - 21)") unless (floor_number.to_i).between?(3, 21)
     else
-      errors.add(:room_number, "cannot be blank!")
+      #errors.add(:room_number, "cannot be blank!")
     end
-
   end
 
 end
