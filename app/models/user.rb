@@ -1,5 +1,6 @@
 class User < ActiveRecord::Base
   has_many :sentences
+  belongs_to :house
 
   #have to have all these fields
   validates :name, :matric, :room_number, presence: true
@@ -9,14 +10,21 @@ class User < ActiveRecord::Base
   validates :room_number, uniqueness: true
   validates :matric, uniqueness: true
 
+  #room number takes the form xy-abc[A-F]
   validates_format_of :room_number, :with => /\A\d{2}-\d{3}[a-fA-F]?\z/, :on => :create
 
   #check if the room number is in range
   validate :floor_number_in_range
   #validates_format_of :matric, :with => /\A([^@\s]+)@((?:[-a-z0-9]+\.)+[a-z]{2,})\Z/, :on => :create
 
+  #check for house and set
+  after_validation do |user|
+    user_floor = (room_number[0] + room_number[1]).to_i
+    user_house = House.where("floor_end >= ?", user_floor).where("floor_start <= ?", user_floor).first
+    user_house.present? ? user.house = user_house : errors.add(:room_number, "does not have a house!")
+  end
 
-  #room number takes the form xy-abc[A-F]
+
   def self.authenticate(matric, room_number)
     #upcase everything!
     matric.try(:upcase!)

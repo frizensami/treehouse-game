@@ -3,7 +3,10 @@ class SentencesController < ApplicationController
   before_action :validate_user
 
   def house_latest
-    render plain: "hello!"
+    user_house_id = session[:user]["house_id"]
+    @house_name = House.find(user_house_id).name
+    @latest_sentence = Sentence.where(house_id: user_house_id).order("created_at").last.sentence_text
+    @sentence = Sentence.new
   end
 
   # GET /sentences
@@ -33,7 +36,7 @@ class SentencesController < ApplicationController
 
     respond_to do |format|
       if @sentence.save
-        format.html { redirect_to @sentence, notice: 'Sentence was successfully created.' }
+        format.html { redirect_to house_latest_path, notice: 'Sentence was successfully created.' }
         format.json { render :show, status: :created, location: @sentence }
       else
         format.html { render :new }
@@ -83,6 +86,9 @@ class SentencesController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def sentence_params
-      params.require(:sentence).permit(:house, :sentence_text)
+      mod_params = params.require(:sentence).permit(:house_id, :user_id, :sentence_text)
+      mod_params[:house_id] = session[:user]["house_id"] if mod_params[:house_id].blank?
+      mod_params[:user_id] = session[:user]["id"] if mod_params[:user_id].blank?
+      return mod_params
     end
 end
