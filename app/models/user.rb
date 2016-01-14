@@ -1,4 +1,6 @@
 class User < ActiveRecord::Base
+  include ApplicationHelper
+
   has_many :sentences
   belongs_to :house
 
@@ -12,13 +14,12 @@ class User < ActiveRecord::Base
 
   #room number takes the form xy-abc[A-F]
   validates_format_of :room_number, :with => /\A\d{2}-\d{3}[a-fA-F]?\z/, :on => :create
-
   #check if the room number is in range
   validate :floor_number_in_range
-  #validates_format_of :matric, :with => /\A([^@\s]+)@((?:[-a-z0-9]+\.)+[a-z]{2,})\Z/, :on => :create
+  validate :matric_format_correct
 
   #check for house and set
-  after_validation do |user|
+  before_save do |user|
     user_floor = (room_number[0] + room_number[1]).to_i
     user_house = House.where("floor_end >= ?", user_floor).where("floor_start <= ?", user_floor).first
     user_house.present? ? user.house = user_house : errors.add(:room_number, "does not have a house!")
@@ -41,6 +42,10 @@ class User < ActiveRecord::Base
     else
       #errors.add(:room_number, "cannot be blank!")
     end
+  end
+
+  def matric_format_correct
+    errors.add(:matric, "is not valid.") unless check_matric_number(matric)
   end
 
 end
