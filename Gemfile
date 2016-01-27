@@ -29,6 +29,9 @@ gem "twitter-bootstrap-rails"
 #factory girl FOR RAILS
 gem 'factory_girl_rails'
 
+#gem for sentence segmentation
+gem 'scalpel', '~> 0.2.1'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
