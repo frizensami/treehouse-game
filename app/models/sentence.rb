@@ -13,10 +13,18 @@ class Sentence < ActiveRecord::Base
     end
   end
 
-
-  validate do |sentence|
-    # only allow user to post after > 2 sentences have been posted into the house sentences
-
+  # only allow user to post after > 2 sentences have been posted into the house sentences
+  validate do |cur_sentence|
+    unless (house.blank? || user.blank?) || (Sentence.where(user: user).count == 0)
+      puts "House: #{house}"
+      num_sentences_since = Sentence.where(house_id: house_id)
+                            .where("created_at > ?", Sentence.where(user: user).order("created_at DESC").first.created_at)
+                            .count
+      puts "Number of sentences since last time you posted: #{num_sentences_since}"
+      if num_sentences_since < 2
+        errors.add(:you, "can only add a sentence after 2 other sentences have been posted!")
+      end
+    end
 
   end
 

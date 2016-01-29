@@ -4,9 +4,9 @@ class SentencesController < ApplicationController
 
   def house_latest
     user_house_id = session[:user]["house_id"]
-    @user_name = session[:user]["name"]
     @house_name = House.find(user_house_id).name
     @latest_sentence = Sentence.where(house_id: user_house_id).order("created_at").last.try(:sentence_text)
+    @user_name = Sentence.where(house_id: user_house_id).order("created_at").last.try(:user).try(:name)
     @sentence = Sentence.new
 
     if @house_name == "tancho"
