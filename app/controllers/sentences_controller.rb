@@ -4,6 +4,7 @@ class SentencesController < ApplicationController
 
   def house_latest
     user_house_id = session[:user]["house_id"]
+    @user_name = session[:user]["name"]
     @house_name = House.find(user_house_id).name
     @latest_sentence = Sentence.where(house_id: user_house_id).order("created_at").last.try(:sentence_text)
     @sentence = Sentence.new
@@ -59,8 +60,9 @@ class SentencesController < ApplicationController
         format.html { redirect_to house_latest_path, notice: 'Sentence was successfully created.' }
         format.json { render :show, status: :created, location: @sentence }
       else
-        format.html { render :new }
-        format.json { render json: @sentence.errors, status: :unprocessable_entity }
+        puts @sentence.errors.full_messages
+        format.html { redirect_to :house_latest, flash: {sentence_errors: @sentence.errors.full_messages}}
+        format.json { render json: @sentence.errors, status: :unprocessable_entity}
       end
     end
   end
