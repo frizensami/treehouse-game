@@ -7,6 +7,26 @@ class SentencesController < ApplicationController
     @house_name = House.find(user_house_id).name
     @latest_sentence = Sentence.where(house_id: user_house_id).order("created_at").last.try(:sentence_text)
     @sentence = Sentence.new
+
+    if @house_name == "tancho"
+      @house_flag_url = "http://tembusu.nus.edu.sg/images/news_events/20120803_housereception/tancho.jpg"
+      @house_color = "red"
+    elsif @house_name == "gaja"
+      @house_flag_url = "http://tembusu.nus.edu.sg/images/news_events/20120803_housereception/gaja.jpg"
+      @house_color = "#000099"
+    elsif @house_name == "ora"
+      @house_flag_url = "http://tembusu.nus.edu.sg/images/news_events/20120803_housereception/ora.jpg"
+      @house_color = "green"
+    elsif @house_name == "ponya"
+      @house_flag_url = "http://tembusu.nus.edu.sg/images/news_events/20120803_housereception/ponya.jpg"
+      @house_color = "#e6b800"
+    elsif @house_name == "shan"
+      @house_flag_url = "http://tembusu.nus.edu.sg/images/news_events/20120803_housereception/shan.jpg"
+      @house_color = "purple"
+    else
+      @house_flag_url = ""
+      @house_color = ""
+    end
   end
 
   # GET /sentences
