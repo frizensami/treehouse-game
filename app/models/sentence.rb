@@ -28,4 +28,12 @@ class Sentence < ActiveRecord::Base
 
   end
 
+  validate do |cur_sentence|
+    unless cur_sentence.created_at.blank?
+      if Sentence.where(house_id: house_id).where("created_at >= ?", cur_sentence.created_at).count >= 1
+        errors.add(:another, "sentence has been created while you were typing, please consider changing your response :)")
+      end
+    end
+  end
+
 end

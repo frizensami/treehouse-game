@@ -109,7 +109,7 @@ class SentencesController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def sentence_params
-      mod_params = params.require(:sentence).permit(:house_id, :user_id, :sentence_text)
+      mod_params = params.require(:sentence).permit(:house_id, :user_id, :sentence_text, :created_at)
       mod_params[:house_id] = session[:user]["house_id"] if mod_params[:house_id].blank?
       mod_params[:user_id] = session[:user]["id"] if mod_params[:user_id].blank?
       return mod_params
