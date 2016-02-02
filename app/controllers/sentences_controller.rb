@@ -61,7 +61,7 @@ class SentencesController < ApplicationController
         format.json { render :show, status: :created, location: @sentence }
       else
         puts @sentence.errors.full_messages
-        format.html { redirect_to :house_latest, flash: {sentence_errors: @sentence.errors.full_messages}}
+        format.html { redirect_to :house_latest, flash: {sentence_errors: @sentence.errors.full_messages, sentence_text: (@sentence.try(:sentence_text) || "")} }
         format.json { render json: @sentence.errors, status: :unprocessable_entity}
       end
     end

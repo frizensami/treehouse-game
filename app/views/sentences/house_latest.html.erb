@@ -46,7 +46,7 @@
 
         <div class="form-group" style="margin-top: 20px">
           <%= f.label "Submit a new sentence: ", :class => 'control-label', :style =>'color:' + @house_color %>
-          <%= f.text_area :sentence_text, :class => 'form-control' %>
+          <%= f.text_area :sentence_text, :value => (flash[:sentence_text] || ""), :class => 'form-control' %>
           <%=f.error_span(:sentence_text) %>
         </div>
 
