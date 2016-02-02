@@ -8,6 +8,7 @@ class SentencesController < ApplicationController
     @latest_sentence = Sentence.where(house_id: user_house_id).order("created_at").last.try(:sentence_text)
     @user_name = Sentence.where(house_id: user_house_id).order("created_at").last.try(:user).try(:name)
     @sentence = Sentence.new
+    @counter = Sentence.where(house_id: user_house_id).count
 
     if @house_name == "tancho"
       @house_flag_url = "http://tembusu.nus.edu.sg/images/news_events/20120803_housereception/tancho.jpg"
