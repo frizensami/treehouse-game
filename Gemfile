@@ -32,11 +32,17 @@ gem 'factory_girl_rails'
 #gem for sentence segmentation
 gem 'scalpel', '~> 0.2.1'
 
+# env vars
+gem "figaro"
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use Unicorn as the app server
-# gem 'unicorn'
+gem 'unicorn'
+
+# postgres
+gem 'pg'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
