@@ -6,3 +6,404 @@ Sentence Scalpel: 3
 Sentence text has more than one sentence! Only one is allowed
 {"id"=>2, "name"=>"Roy", "matric"=>"A0139023N", "room_number"=>"05-162F", "created_at"=>"2016-02-16T03:13:36.715Z", "updated_at"=>"2016-02-16T03:13:36.715Z", "house_id"=>1}
 {"id"=>2, "name"=>"Roy", "matric"=>"A0139023N", "room_number"=>"05-162F", "created_at"=>"2016-02-16T03:13:36.715Z", "updated_at"=>"2016-02-16T03:13:36.715Z", "house_id"=>1}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"09-999F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:15:55.310Z", "house_id"=>2}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"09-999F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:15:55.310Z", "house_id"=>2}
+Sentence Text to validate: With an almighty shove, the Komodo hatchling finally broke free from the shell which had made up its entire universe for the past 8 months. Opening its eyes slowly, it quietly took in its surroundings and braced itself to explore its new home - Komodo Island.
+Sentence Scalpel: 2
+Sentence text has more than one sentence! Only one is allowed
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"09-999F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:15:55.310Z", "house_id"=>2}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"09-999F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:15:55.310Z", "house_id"=>2}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"09-999F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:15:55.310Z", "house_id"=>2}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"09-999F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:15:55.310Z", "house_id"=>2}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"09-999F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:15:55.310Z", "house_id"=>2}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"06-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:31:06.239Z", "house_id"=>1}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"06-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:31:06.239Z", "house_id"=>1}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"06-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:31:06.239Z", "house_id"=>1}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"06-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:31:06.239Z", "house_id"=>1}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"12-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:33:00.387Z", "house_id"=>3}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"12-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:33:00.387Z", "house_id"=>3}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"12-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:33:00.387Z", "house_id"=>3}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"12-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:33:00.387Z", "house_id"=>3}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"18-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:33:51.531Z", "house_id"=>4}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"18-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:33:51.531Z", "house_id"=>4}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"18-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:33:51.531Z", "house_id"=>4}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"18-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:33:51.531Z", "house_id"=>4}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"21-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:35:27.879Z", "house_id"=>5}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"21-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:35:27.879Z", "house_id"=>5}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"21-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:35:27.879Z", "house_id"=>5}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"21-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:35:27.879Z", "house_id"=>5}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"21-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-02-16T03:35:27.879Z", "house_id"=>5}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"08-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-03-15T08:26:59.451Z", "house_id"=>2}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"08-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-03-15T08:26:59.451Z", "house_id"=>2}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"08-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-03-15T08:26:59.451Z", "house_id"=>2}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"08-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-03-15T08:26:59.451Z", "house_id"=>2}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"08-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-03-15T08:26:59.451Z", "house_id"=>2}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"08-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-03-15T08:26:59.451Z", "house_id"=>2}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"08-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-03-15T08:26:59.451Z", "house_id"=>2}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"08-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-03-15T08:26:59.451Z", "house_id"=>2}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"08-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-03-15T08:26:59.451Z", "house_id"=>2}
+{"id"=>3, "name"=>"Admin", "matric"=>"A0138978E", "room_number"=>"08-162F", "created_at"=>"2016-02-16T03:15:55.310Z", "updated_at"=>"2016-03-15T08:26:59.451Z", "house_id"=>2}
+{"id"=>5, "name"=>"Kai Kiat", "matric"=>"A0140529J", "room_number"=>"08-166", "created_at"=>"2016-03-15T09:44:24.979Z", "updated_at"=>"2016-03-15T09:44:24.979Z", "house_id"=>2}
+{"id"=>6, "name"=>"Kok Chun Yen", "matric"=>"A0135842E", "room_number"=>"08-170D", "created_at"=>"2016-03-15T12:02:58.865Z", "updated_at"=>"2016-03-15T12:02:58.865Z", "house_id"=>2}
+{"id"=>7, "name"=>"Paky", "matric"=>"A0138945R", "room_number"=>"19-166", "created_at"=>"2016-03-15T12:33:27.549Z", "updated_at"=>"2016-03-15T12:33:27.549Z", "house_id"=>5}
+{"id"=>8, "name"=>"Cassandra Teo", "matric"=>"A0099755H", "room_number"=>"16-166", "created_at"=>"2016-03-15T12:40:42.022Z", "updated_at"=>"2016-03-15T12:40:42.022Z", "house_id"=>4}
+{"id"=>8, "name"=>"Cassandra Teo", "matric"=>"A0099755H", "room_number"=>"16-166", "created_at"=>"2016-03-15T12:40:42.022Z", "updated_at"=>"2016-03-15T12:40:42.022Z", "house_id"=>4}
+{"id"=>9, "name"=>"Ren Min", "matric"=>"A0143615L", "room_number"=>"20-170A", "created_at"=>"2016-03-15T13:02:53.183Z", "updated_at"=>"2016-03-15T13:02:53.183Z", "house_id"=>5}
+{"id"=>10, "name"=>"Tyk ", "matric"=>"A0124010J", "room_number"=>"12-152", "created_at"=>"2016-03-15T13:05:03.768Z", "updated_at"=>"2016-03-15T13:05:03.768Z", "house_id"=>3}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>12, "name"=>"Brendan Cai", "matric"=>"A0139283Y", "room_number"=>"13-164", "created_at"=>"2016-03-15T13:32:01.530Z", "updated_at"=>"2016-03-15T13:32:01.530Z", "house_id"=>3}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>13, "name"=>"Lim Ming Dao", "matric"=>"A0139001X", "room_number"=>"12-158", "created_at"=>"2016-03-15T13:44:45.970Z", "updated_at"=>"2016-03-15T13:44:45.970Z", "house_id"=>3}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>14, "name"=>"Vanessa", "matric"=>"A0130442X", "room_number"=>"11-167", "created_at"=>"2016-03-15T13:49:21.208Z", "updated_at"=>"2016-03-15T13:49:21.208Z", "house_id"=>2}
+{"id"=>15, "name"=>"Yeo Zhen Qiang", "matric"=>"A0111525W", "room_number"=>"04-163B", "created_at"=>"2016-03-15T13:54:42.877Z", "updated_at"=>"2016-03-15T13:54:42.877Z", "house_id"=>1}
+{"id"=>16, "name"=>"Gerald Tan", "matric"=>"A0114081W", "room_number"=>"17-163C", "created_at"=>"2016-03-15T13:55:51.438Z", "updated_at"=>"2016-03-15T13:55:51.438Z", "house_id"=>4}
+nil
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>16, "name"=>"Gerald Tan", "matric"=>"A0114081W", "room_number"=>"17-163C", "created_at"=>"2016-03-15T13:55:51.438Z", "updated_at"=>"2016-03-15T13:55:51.438Z", "house_id"=>4}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+nil
+{"id"=>16, "name"=>"Gerald Tan", "matric"=>"A0114081W", "room_number"=>"17-163C", "created_at"=>"2016-03-15T13:55:51.438Z", "updated_at"=>"2016-03-15T13:55:51.438Z", "house_id"=>4}
+{"id"=>16, "name"=>"Gerald Tan", "matric"=>"A0114081W", "room_number"=>"17-163C", "created_at"=>"2016-03-15T13:55:51.438Z", "updated_at"=>"2016-03-15T13:55:51.438Z", "house_id"=>4}
+{"id"=>17, "name"=>"Chloe Yap", "matric"=>"A0148978A", "room_number"=>"16-160", "created_at"=>"2016-03-15T14:17:19.209Z", "updated_at"=>"2016-03-15T14:17:19.209Z", "house_id"=>4}
+{"id"=>13, "name"=>"Lim Ming Dao", "matric"=>"A0139001X", "room_number"=>"12-158", "created_at"=>"2016-03-15T13:44:45.970Z", "updated_at"=>"2016-03-15T13:44:45.970Z", "house_id"=>3}
+{"id"=>13, "name"=>"Lim Ming Dao", "matric"=>"A0139001X", "room_number"=>"12-158", "created_at"=>"2016-03-15T13:44:45.970Z", "updated_at"=>"2016-03-15T13:44:45.970Z", "house_id"=>3}
+{"id"=>13, "name"=>"Lim Ming Dao", "matric"=>"A0139001X", "room_number"=>"12-158", "created_at"=>"2016-03-15T13:44:45.970Z", "updated_at"=>"2016-03-15T13:44:45.970Z", "house_id"=>3}
+{"id"=>15, "name"=>"Yeo Zhen Qiang", "matric"=>"A0111525W", "room_number"=>"04-163B", "created_at"=>"2016-03-15T13:54:42.877Z", "updated_at"=>"2016-03-15T13:54:42.877Z", "house_id"=>1}
+{"id"=>17, "name"=>"Chloe Yap", "matric"=>"A0148978A", "room_number"=>"16-160", "created_at"=>"2016-03-15T14:17:19.209Z", "updated_at"=>"2016-03-15T14:17:19.209Z", "house_id"=>4}
+{"id"=>17, "name"=>"Chloe Yap", "matric"=>"A0148978A", "room_number"=>"16-160", "created_at"=>"2016-03-15T14:17:19.209Z", "updated_at"=>"2016-03-15T14:17:19.209Z", "house_id"=>4}
+{"id"=>18, "name"=>"Lionel", "matric"=>"A0121536N", "room_number"=>"09-157", "created_at"=>"2016-03-15T14:45:30.762Z", "updated_at"=>"2016-03-15T14:45:30.762Z", "house_id"=>2}
+{"id"=>19, "name"=>"Jensen Goh", "matric"=>"A0108244M", "room_number"=>"05-163B", "created_at"=>"2016-03-15T14:49:00.151Z", "updated_at"=>"2016-03-15T14:49:00.151Z", "house_id"=>1}
+{"id"=>18, "name"=>"Lionel", "matric"=>"A0121536N", "room_number"=>"09-157", "created_at"=>"2016-03-15T14:45:30.762Z", "updated_at"=>"2016-03-15T14:45:30.762Z", "house_id"=>2}
+{"id"=>18, "name"=>"Lionel", "matric"=>"A0121536N", "room_number"=>"09-157", "created_at"=>"2016-03-15T14:45:30.762Z", "updated_at"=>"2016-03-15T14:45:30.762Z", "house_id"=>2}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>14, "name"=>"Vanessa", "matric"=>"A0130442X", "room_number"=>"11-167", "created_at"=>"2016-03-15T13:49:21.208Z", "updated_at"=>"2016-03-15T13:49:21.208Z", "house_id"=>2}
+{"id"=>22, "name"=>"Mr Bottle", "matric"=>"A0123458E", "room_number"=>"03-162D", "created_at"=>"2016-03-15T15:02:49.592Z", "updated_at"=>"2016-03-15T15:06:53.260Z", "house_id"=>4}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>22, "name"=>"Mr Bottle", "matric"=>"A0123458E", "room_number"=>"03-162D", "created_at"=>"2016-03-15T15:02:49.592Z", "updated_at"=>"2016-03-15T15:06:53.260Z", "house_id"=>4}
+{"id"=>22, "name"=>"Mr Bottle", "matric"=>"A0123458E", "room_number"=>"03-162D", "created_at"=>"2016-03-15T15:02:49.592Z", "updated_at"=>"2016-03-15T15:06:53.260Z", "house_id"=>4}
+{"id"=>22, "name"=>"Mr Bottle", "matric"=>"A0123458E", "room_number"=>"03-162D", "created_at"=>"2016-03-15T15:02:49.592Z", "updated_at"=>"2016-03-15T15:06:53.260Z", "house_id"=>4}
+{"id"=>23, "name"=>"Yong J Ian", "matric"=>"A0147355B", "room_number"=>"13-163D", "created_at"=>"2016-03-15T15:20:57.632Z", "updated_at"=>"2016-03-15T15:20:57.632Z", "house_id"=>3}
+{"id"=>23, "name"=>"Yong J Ian", "matric"=>"A0147355B", "room_number"=>"13-163D", "created_at"=>"2016-03-15T15:20:57.632Z", "updated_at"=>"2016-03-15T15:20:57.632Z", "house_id"=>3}
+{"id"=>23, "name"=>"Yong J Ian", "matric"=>"A0147355B", "room_number"=>"13-163D", "created_at"=>"2016-03-15T15:20:57.632Z", "updated_at"=>"2016-03-15T15:20:57.632Z", "house_id"=>3}
+{"id"=>23, "name"=>"Yong J Ian", "matric"=>"A0147355B", "room_number"=>"13-163D", "created_at"=>"2016-03-15T15:20:57.632Z", "updated_at"=>"2016-03-15T15:20:57.632Z", "house_id"=>3}
+{"id"=>23, "name"=>"Yong J Ian", "matric"=>"A0147355B", "room_number"=>"13-163D", "created_at"=>"2016-03-15T15:20:57.632Z", "updated_at"=>"2016-03-15T15:20:57.632Z", "house_id"=>3}
+{"id"=>22, "name"=>"Mr Bottle", "matric"=>"A0123458E", "room_number"=>"03-162D", "created_at"=>"2016-03-15T15:02:49.592Z", "updated_at"=>"2016-03-15T15:06:53.260Z", "house_id"=>4}
+{"id"=>24, "name"=>"Marcus", "matric"=>"A0147863U", "room_number"=>"21-170C", "created_at"=>"2016-03-15T15:28:31.069Z", "updated_at"=>"2016-03-15T15:28:31.069Z", "house_id"=>5}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>24, "name"=>"Marcus", "matric"=>"A0147863U", "room_number"=>"21-170C", "created_at"=>"2016-03-15T15:28:31.069Z", "updated_at"=>"2016-03-15T15:28:31.069Z", "house_id"=>5}
+{"id"=>24, "name"=>"Marcus", "matric"=>"A0147863U", "room_number"=>"21-170C", "created_at"=>"2016-03-15T15:28:31.069Z", "updated_at"=>"2016-03-15T15:28:31.069Z", "house_id"=>5}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>25, "name"=>"Ong Xue Min", "matric"=>"A0143198Y", "room_number"=>"12-170C", "created_at"=>"2016-03-15T15:33:29.905Z", "updated_at"=>"2016-03-15T15:33:29.905Z", "house_id"=>3}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>25, "name"=>"Ong Xue Min", "matric"=>"A0143198Y", "room_number"=>"12-170C", "created_at"=>"2016-03-15T15:33:29.905Z", "updated_at"=>"2016-03-15T15:33:29.905Z", "house_id"=>3}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>18, "name"=>"Lionel", "matric"=>"A0121536N", "room_number"=>"09-157", "created_at"=>"2016-03-15T14:45:30.762Z", "updated_at"=>"2016-03-15T14:45:30.762Z", "house_id"=>2}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>26, "name"=>"Lim Jia Ying", "matric"=>"A0116318L", "room_number"=>"20-170C", "created_at"=>"2016-03-15T16:19:02.750Z", "updated_at"=>"2016-03-15T16:19:02.750Z", "house_id"=>5}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>26, "name"=>"Lim Jia Ying", "matric"=>"A0116318L", "room_number"=>"20-170C", "created_at"=>"2016-03-15T16:19:02.750Z", "updated_at"=>"2016-03-15T16:19:02.750Z", "house_id"=>5}
+{"id"=>26, "name"=>"Lim Jia Ying", "matric"=>"A0116318L", "room_number"=>"20-170C", "created_at"=>"2016-03-15T16:19:02.750Z", "updated_at"=>"2016-03-15T16:19:02.750Z", "house_id"=>5}
+{"id"=>9, "name"=>"Ren Min", "matric"=>"A0143615L", "room_number"=>"20-170A", "created_at"=>"2016-03-15T13:02:53.183Z", "updated_at"=>"2016-03-15T13:02:53.183Z", "house_id"=>5}
+{"id"=>27, "name"=>"Marshall", "matric"=>"A0139054H", "room_number"=>"04-138", "created_at"=>"2016-03-15T16:43:27.578Z", "updated_at"=>"2016-03-15T16:43:27.578Z", "house_id"=>1}
+{"id"=>27, "name"=>"Marshall", "matric"=>"A0139054H", "room_number"=>"04-138", "created_at"=>"2016-03-15T16:43:27.578Z", "updated_at"=>"2016-03-15T16:43:27.578Z", "house_id"=>1}
+{"id"=>27, "name"=>"Marshall", "matric"=>"A0139054H", "room_number"=>"04-138", "created_at"=>"2016-03-15T16:43:27.578Z", "updated_at"=>"2016-03-15T16:43:27.578Z", "house_id"=>1}
+{"id"=>13, "name"=>"Lim Ming Dao", "matric"=>"A0139001X", "room_number"=>"12-158", "created_at"=>"2016-03-15T13:44:45.970Z", "updated_at"=>"2016-03-15T13:44:45.970Z", "house_id"=>3}
+{"id"=>13, "name"=>"Lim Ming Dao", "matric"=>"A0139001X", "room_number"=>"12-158", "created_at"=>"2016-03-15T13:44:45.970Z", "updated_at"=>"2016-03-15T13:44:45.970Z", "house_id"=>3}
+{"id"=>13, "name"=>"Lim Ming Dao", "matric"=>"A0139001X", "room_number"=>"12-158", "created_at"=>"2016-03-15T13:44:45.970Z", "updated_at"=>"2016-03-15T13:44:45.970Z", "house_id"=>3}
+{"id"=>28, "name"=>"Steven Gunawan", "matric"=>"A0131130H", "room_number"=>"15-171", "created_at"=>"2016-03-15T16:54:53.011Z", "updated_at"=>"2016-03-15T16:54:53.011Z", "house_id"=>4}
+{"id"=>16, "name"=>"Gerald Tan", "matric"=>"A0114081W", "room_number"=>"17-163C", "created_at"=>"2016-03-15T13:55:51.438Z", "updated_at"=>"2016-03-15T13:55:51.438Z", "house_id"=>4}
+{"id"=>16, "name"=>"Gerald Tan", "matric"=>"A0114081W", "room_number"=>"17-163C", "created_at"=>"2016-03-15T13:55:51.438Z", "updated_at"=>"2016-03-15T13:55:51.438Z", "house_id"=>4}
+{"id"=>16, "name"=>"Gerald Tan", "matric"=>"A0114081W", "room_number"=>"17-163C", "created_at"=>"2016-03-15T13:55:51.438Z", "updated_at"=>"2016-03-15T13:55:51.438Z", "house_id"=>4}
+nil
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>29, "name"=>"Ong Zhi Yong", "matric"=>"A0139402M", "room_number"=>"15-160", "created_at"=>"2016-03-16T01:58:13.473Z", "updated_at"=>"2016-03-16T01:58:13.473Z", "house_id"=>4}
+{"id"=>30, "name"=>"Anon", "matric"=>"A0139404J", "room_number"=>"14-158", "created_at"=>"2016-03-16T02:02:41.827Z", "updated_at"=>"2016-03-16T02:02:41.827Z", "house_id"=>3}
+{"id"=>31, "name"=>"Geraldine", "matric"=>"A0113582L", "room_number"=>"10-151", "created_at"=>"2016-03-16T02:02:55.967Z", "updated_at"=>"2016-03-16T02:02:55.967Z", "house_id"=>2}
+{"id"=>32, "name"=>"Plod", "matric"=>"A0091234M", "room_number"=>"15-162F", "created_at"=>"2016-03-16T02:04:42.844Z", "updated_at"=>"2016-03-16T02:04:42.844Z", "house_id"=>4}
+{"id"=>31, "name"=>"Geraldine", "matric"=>"A0113582L", "room_number"=>"10-151", "created_at"=>"2016-03-16T02:02:55.967Z", "updated_at"=>"2016-03-16T02:02:55.967Z", "house_id"=>2}
+{"id"=>31, "name"=>"Geraldine", "matric"=>"A0113582L", "room_number"=>"10-151", "created_at"=>"2016-03-16T02:02:55.967Z", "updated_at"=>"2016-03-16T02:02:55.967Z", "house_id"=>2}
+{"id"=>33, "name"=>"Anon", "matric"=>"A0091232R", "room_number"=>"16-182", "created_at"=>"2016-03-16T02:14:46.065Z", "updated_at"=>"2016-03-16T02:14:46.065Z", "house_id"=>4}
+{"id"=>33, "name"=>"Anon", "matric"=>"A0091232R", "room_number"=>"16-182", "created_at"=>"2016-03-16T02:14:46.065Z", "updated_at"=>"2016-03-16T02:14:46.065Z", "house_id"=>4}
+{"id"=>34, "name"=>"Lin Ziyi", "matric"=>"A0130378H", "room_number"=>"07-162B", "created_at"=>"2016-03-16T03:09:48.057Z", "updated_at"=>"2016-03-16T03:09:48.057Z", "house_id"=>1}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>35, "name"=>"Patrick Michaelsen", "matric"=>"A0145631L", "room_number"=>"08-162D", "created_at"=>"2016-03-16T03:40:13.018Z", "updated_at"=>"2016-03-16T03:40:13.018Z", "house_id"=>2}
+{"id"=>35, "name"=>"Patrick Michaelsen", "matric"=>"A0145631L", "room_number"=>"08-162D", "created_at"=>"2016-03-16T03:40:13.018Z", "updated_at"=>"2016-03-16T03:40:13.018Z", "house_id"=>2}
+{"id"=>35, "name"=>"Patrick Michaelsen", "matric"=>"A0145631L", "room_number"=>"08-162D", "created_at"=>"2016-03-16T03:40:13.018Z", "updated_at"=>"2016-03-16T03:40:13.018Z", "house_id"=>2}
+{"id"=>35, "name"=>"Patrick Michaelsen", "matric"=>"A0145631L", "room_number"=>"08-162D", "created_at"=>"2016-03-16T03:40:13.018Z", "updated_at"=>"2016-03-16T03:40:13.018Z", "house_id"=>2}
+{"id"=>14, "name"=>"Vanessa", "matric"=>"A0130442X", "room_number"=>"11-167", "created_at"=>"2016-03-15T13:49:21.208Z", "updated_at"=>"2016-03-15T13:49:21.208Z", "house_id"=>2}
+{"id"=>13, "name"=>"Lim Ming Dao", "matric"=>"A0139001X", "room_number"=>"12-158", "created_at"=>"2016-03-15T13:44:45.970Z", "updated_at"=>"2016-03-15T13:44:45.970Z", "house_id"=>3}
+{"id"=>36, "name"=>"Mary Anne", "matric"=>"A0113935H", "room_number"=>"10-163B", "created_at"=>"2016-03-16T04:42:03.821Z", "updated_at"=>"2016-03-16T04:42:03.821Z", "house_id"=>2}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>37, "name"=>"Norman", "matric"=>"A0111020N", "room_number"=>"08-163E", "created_at"=>"2016-03-16T05:02:24.700Z", "updated_at"=>"2016-03-16T05:02:24.700Z", "house_id"=>2}
+{"id"=>37, "name"=>"Norman", "matric"=>"A0111020N", "room_number"=>"08-163E", "created_at"=>"2016-03-16T05:02:24.700Z", "updated_at"=>"2016-03-16T05:02:24.700Z", "house_id"=>2}
+{"id"=>37, "name"=>"Norman", "matric"=>"A0111020N", "room_number"=>"08-163E", "created_at"=>"2016-03-16T05:02:24.700Z", "updated_at"=>"2016-03-16T05:02:24.700Z", "house_id"=>2}
+{"id"=>37, "name"=>"Norman", "matric"=>"A0111020N", "room_number"=>"08-163E", "created_at"=>"2016-03-16T05:02:24.700Z", "updated_at"=>"2016-03-16T05:02:24.700Z", "house_id"=>2}
+{"id"=>38, "name"=>"Ean Xiang", "matric"=>"A0131193N", "room_number"=>"20-154", "created_at"=>"2016-03-16T05:57:02.613Z", "updated_at"=>"2016-03-16T05:57:02.613Z", "house_id"=>5}
+{"id"=>5, "name"=>"Kai Kiat", "matric"=>"A0140529J", "room_number"=>"08-166", "created_at"=>"2016-03-15T09:44:24.979Z", "updated_at"=>"2016-03-15T09:44:24.979Z", "house_id"=>2}
+{"id"=>23, "name"=>"Yong J Ian", "matric"=>"A0147355B", "room_number"=>"13-163D", "created_at"=>"2016-03-15T15:20:57.632Z", "updated_at"=>"2016-03-15T15:20:57.632Z", "house_id"=>3}
+{"id"=>39, "name"=>"Shawn", "matric"=>"A0124364L", "room_number"=>"19-162B", "created_at"=>"2016-03-16T07:41:30.838Z", "updated_at"=>"2016-03-16T07:41:30.838Z", "house_id"=>5}
+{"id"=>16, "name"=>"Gerald Tan", "matric"=>"A0114081W", "room_number"=>"17-163C", "created_at"=>"2016-03-15T13:55:51.438Z", "updated_at"=>"2016-03-15T13:55:51.438Z", "house_id"=>4}
+nil
+{"id"=>16, "name"=>"Gerald Tan", "matric"=>"A0114081W", "room_number"=>"17-163C", "created_at"=>"2016-03-15T13:55:51.438Z", "updated_at"=>"2016-03-15T13:55:51.438Z", "house_id"=>4}
+nil
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>40, "name"=>"Anselm", "matric"=>"A0139654W", "room_number"=>"17-170F", "created_at"=>"2016-03-16T09:32:52.626Z", "updated_at"=>"2016-03-16T09:32:52.626Z", "house_id"=>4}
+{"id"=>16, "name"=>"Gerald Tan", "matric"=>"A0114081W", "room_number"=>"17-163C", "created_at"=>"2016-03-15T13:55:51.438Z", "updated_at"=>"2016-03-15T13:55:51.438Z", "house_id"=>4}
+nil
+{"id"=>16, "name"=>"Gerald Tan", "matric"=>"A0114081W", "room_number"=>"17-163C", "created_at"=>"2016-03-15T13:55:51.438Z", "updated_at"=>"2016-03-15T13:55:51.438Z", "house_id"=>4}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>41, "name"=>"Gracia Lam", "matric"=>"A0103521B", "room_number"=>"10-162F", "created_at"=>"2016-03-16T10:06:28.724Z", "updated_at"=>"2016-03-16T10:06:28.724Z", "house_id"=>2}
+{"id"=>42, "name"=>"Vincent", "matric"=>"A0144680E", "room_number"=>"21-168", "created_at"=>"2016-03-16T10:07:36.643Z", "updated_at"=>"2016-03-16T10:07:36.643Z", "house_id"=>5}
+{"id"=>43, "name"=>"Pradeep Raghunath", "matric"=>"A0117450N", "room_number"=>"08-151", "created_at"=>"2016-03-16T10:08:56.142Z", "updated_at"=>"2016-03-16T10:08:56.142Z", "house_id"=>2}
+{"id"=>44, "name"=>"Cyrus", "matric"=>"A1223423U", "room_number"=>"03-170", "created_at"=>"2016-03-16T10:08:58.012Z", "updated_at"=>"2016-03-16T10:08:58.012Z", "house_id"=>nil}
+{"id"=>45, "name"=>"Dr Corner", "matric"=>"A0139512J", "room_number"=>"15-163C", "created_at"=>"2016-03-16T10:08:58.299Z", "updated_at"=>"2016-03-16T10:08:58.299Z", "house_id"=>4}
+{"id"=>46, "name"=>"Test", "matric"=>"A1223433R", "room_number"=>"08-162A", "created_at"=>"2016-03-16T10:10:53.132Z", "updated_at"=>"2016-03-16T10:10:53.132Z", "house_id"=>2}
+{"id"=>47, "name"=>"Cyrs", "matric"=>"A0136431N", "room_number"=>"08-170C", "created_at"=>"2016-03-16T10:11:53.657Z", "updated_at"=>"2016-03-16T10:11:53.657Z", "house_id"=>2}
+{"id"=>45, "name"=>"Dr Corner", "matric"=>"A0139512J", "room_number"=>"15-163C", "created_at"=>"2016-03-16T10:08:58.299Z", "updated_at"=>"2016-03-16T10:08:58.299Z", "house_id"=>4}
+{"id"=>45, "name"=>"Dr Corner", "matric"=>"A0139512J", "room_number"=>"15-163C", "created_at"=>"2016-03-16T10:08:58.299Z", "updated_at"=>"2016-03-16T10:08:58.299Z", "house_id"=>4}
+{"id"=>48, "name"=>"Zhi Yong", "matric"=>"A0092390E", "room_number"=>"15-160A", "created_at"=>"2016-03-16T10:15:40.836Z", "updated_at"=>"2016-03-16T10:15:40.836Z", "house_id"=>4}
+{"id"=>34, "name"=>"Lin Ziyi", "matric"=>"A0130378H", "room_number"=>"07-162B", "created_at"=>"2016-03-16T03:09:48.057Z", "updated_at"=>"2016-03-16T03:09:48.057Z", "house_id"=>1}
+{"id"=>42, "name"=>"Vincent", "matric"=>"A0144680E", "room_number"=>"21-168", "created_at"=>"2016-03-16T10:07:36.643Z", "updated_at"=>"2016-03-16T10:07:36.643Z", "house_id"=>5}
+{"id"=>42, "name"=>"Vincent", "matric"=>"A0144680E", "room_number"=>"21-168", "created_at"=>"2016-03-16T10:07:36.643Z", "updated_at"=>"2016-03-16T10:07:36.643Z", "house_id"=>5}
+{"id"=>48, "name"=>"Zhi Yong", "matric"=>"A0092390E", "room_number"=>"15-160A", "created_at"=>"2016-03-16T10:15:40.836Z", "updated_at"=>"2016-03-16T10:15:40.836Z", "house_id"=>4}
+{"id"=>48, "name"=>"Zhi Yong", "matric"=>"A0092390E", "room_number"=>"15-160A", "created_at"=>"2016-03-16T10:15:40.836Z", "updated_at"=>"2016-03-16T10:15:40.836Z", "house_id"=>4}
+{"id"=>34, "name"=>"Lin Ziyi", "matric"=>"A0130378H", "room_number"=>"07-162B", "created_at"=>"2016-03-16T03:09:48.057Z", "updated_at"=>"2016-03-16T03:09:48.057Z", "house_id"=>1}
+{"id"=>34, "name"=>"Lin Ziyi", "matric"=>"A0130378H", "room_number"=>"07-162B", "created_at"=>"2016-03-16T03:09:48.057Z", "updated_at"=>"2016-03-16T03:09:48.057Z", "house_id"=>1}
+{"id"=>49, "name"=>"Pranay", "matric"=>"A0093960X", "room_number"=>"13-123A", "created_at"=>"2016-03-16T10:20:42.519Z", "updated_at"=>"2016-03-16T10:20:42.519Z", "house_id"=>3}
+{"id"=>48, "name"=>"Zhi Yong", "matric"=>"A0092390E", "room_number"=>"15-160A", "created_at"=>"2016-03-16T10:15:40.836Z", "updated_at"=>"2016-03-16T10:15:40.836Z", "house_id"=>4}
+{"id"=>50, "name"=>"Amanda", "matric"=>"A0097627N", "room_number"=>"06-123A", "created_at"=>"2016-03-16T10:24:28.458Z", "updated_at"=>"2016-03-16T10:24:28.458Z", "house_id"=>1}
+{"id"=>51, "name"=>"Yuting", "matric"=>"A0143183L", "room_number"=>"10-166", "created_at"=>"2016-03-16T10:27:01.819Z", "updated_at"=>"2016-03-16T10:27:01.819Z", "house_id"=>2}
+{"id"=>52, "name"=>"Roy", "matric"=>"A0139023N", "room_number"=>"08-160", "created_at"=>"2016-03-16T10:29:50.018Z", "updated_at"=>"2016-03-16T10:29:50.018Z", "house_id"=>2}
+{"id"=>5, "name"=>"Kai Kiat", "matric"=>"A0140529J", "room_number"=>"08-166", "created_at"=>"2016-03-15T09:44:24.979Z", "updated_at"=>"2016-03-15T09:44:24.979Z", "house_id"=>2}
+{"id"=>43, "name"=>"Pradeep Raghunath", "matric"=>"A0117450N", "room_number"=>"08-151", "created_at"=>"2016-03-16T10:08:56.142Z", "updated_at"=>"2016-03-16T10:08:56.142Z", "house_id"=>2}
+{"id"=>53, "name"=>"Cheng Dao Han", "matric"=>"A0140255R", "room_number"=>"08-167", "created_at"=>"2016-03-16T10:35:16.018Z", "updated_at"=>"2016-03-16T10:35:16.018Z", "house_id"=>2}
+{"id"=>5, "name"=>"Kai Kiat", "matric"=>"A0140529J", "room_number"=>"08-166", "created_at"=>"2016-03-15T09:44:24.979Z", "updated_at"=>"2016-03-15T09:44:24.979Z", "house_id"=>2}
+{"id"=>53, "name"=>"Cheng Dao Han", "matric"=>"A0140255R", "room_number"=>"08-167", "created_at"=>"2016-03-16T10:35:16.018Z", "updated_at"=>"2016-03-16T10:35:16.018Z", "house_id"=>2}
+{"id"=>53, "name"=>"Cheng Dao Han", "matric"=>"A0140255R", "room_number"=>"08-167", "created_at"=>"2016-03-16T10:35:16.018Z", "updated_at"=>"2016-03-16T10:35:16.018Z", "house_id"=>2}
+{"id"=>54, "name"=>"Choo Ho Woong", "matric"=>"A0127697M", "room_number"=>"13-156", "created_at"=>"2016-03-16T10:41:12.989Z", "updated_at"=>"2016-03-16T10:41:12.989Z", "house_id"=>3}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>54, "name"=>"Choo Ho Woong", "matric"=>"A0127697M", "room_number"=>"13-156", "created_at"=>"2016-03-16T10:41:12.989Z", "updated_at"=>"2016-03-16T10:41:12.989Z", "house_id"=>3}
+{"id"=>54, "name"=>"Choo Ho Woong", "matric"=>"A0127697M", "room_number"=>"13-156", "created_at"=>"2016-03-16T10:41:12.989Z", "updated_at"=>"2016-03-16T10:41:12.989Z", "house_id"=>3}
+{"id"=>16, "name"=>"Gerald Tan", "matric"=>"A0114081W", "room_number"=>"17-163C", "created_at"=>"2016-03-15T13:55:51.438Z", "updated_at"=>"2016-03-15T13:55:51.438Z", "house_id"=>4}
+nil
+{"id"=>29, "name"=>"Ong Zhi Yong", "matric"=>"A0139402M", "room_number"=>"15-160", "created_at"=>"2016-03-16T01:58:13.473Z", "updated_at"=>"2016-03-16T01:58:13.473Z", "house_id"=>4}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>56, "name"=>"Kabir", "matric"=>"A0091235L", "room_number"=>"15-182", "created_at"=>"2016-03-16T10:52:30.089Z", "updated_at"=>"2016-03-16T10:52:30.089Z", "house_id"=>4}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>56, "name"=>"Kabir", "matric"=>"A0091235L", "room_number"=>"15-182", "created_at"=>"2016-03-16T10:52:30.089Z", "updated_at"=>"2016-03-16T10:52:30.089Z", "house_id"=>4}
+{"id"=>56, "name"=>"Kabir", "matric"=>"A0091235L", "room_number"=>"15-182", "created_at"=>"2016-03-16T10:52:30.089Z", "updated_at"=>"2016-03-16T10:52:30.089Z", "house_id"=>4}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>11, "name"=>"Yew Siang", "matric"=>"A0139817U", "room_number"=>"15-170E", "created_at"=>"2016-03-15T13:05:29.623Z", "updated_at"=>"2016-03-15T13:05:29.623Z", "house_id"=>4}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+Sentence text can't be blank
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+Sentence text can't be blank
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>4, "name"=>"Ryan Cheong", "matric"=>"A0139846N", "room_number"=>"17-150", "created_at"=>"2016-03-15T08:19:33.846Z", "updated_at"=>"2016-03-15T08:19:33.846Z", "house_id"=>4}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
+{"id"=>55, "name"=>"Gandalf", "matric"=>"A0129567R", "room_number"=>"06-155", "created_at"=>"2016-03-16T10:51:42.836Z", "updated_at"=>"2016-03-16T10:51:42.836Z", "house_id"=>1}
