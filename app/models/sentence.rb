@@ -3,7 +3,6 @@ class Sentence < ActiveRecord::Base
   belongs_to :house
 
   validates :user, :house, :sentence_text, presence: true
-
   # checks whether only 1 sentence was added
   validate do |sentence|
     if sentence_text.present?
